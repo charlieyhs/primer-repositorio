@@ -1,6 +1,6 @@
-/*El usuario introduce tres números enteros y el programa los ordenará en orden ascendente y 
-a continuación en orden descendente, mostrando en la primer columna los números de menor a mayor 
-y en la siguiente columna a continuación los números de mayor a menor.*/
+/*El usuario introduce tres nÃºmeros enteros y el programa los ordenarÃ¡ en orden ascendente y 
+a continuaciÃ³n en orden descendente, mostrando en la primer columna los nÃºmeros de menor a mayor 
+y en la siguiente columna a continuaciÃ³n los nÃºmeros de mayor a menor.*/
 #include<iostream>
 #include<conio.h>
 using namespace std;
@@ -34,6 +34,7 @@ int main(){
 	for (int i = 0;i<5;i++){
 		cout<<"Charlie"<<endl;
 	}
+	cout<<"cartas poker"<<endl;
 	getch();
 	return 0;
 }
