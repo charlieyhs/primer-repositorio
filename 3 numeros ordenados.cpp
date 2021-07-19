@@ -30,7 +30,7 @@ int main(){
 	for(int i=3;i>0;i--){
 		cout<<"\t"<<vector[i]<<endl;
 	}
-	
+	cout<<"chupelo git y github"<<endl;
 	getch();
 	return 0;
 }
