@@ -31,6 +31,9 @@ int main(){
 		cout<<"\t"<<vector[i]<<endl;
 	}
 	cout<<"chupelo git y github"<<endl;
+	for (int i = 0;i<5;i++){
+		cout<<"Charlie"<<endl;
+	}
 	getch();
 	return 0;
 }
